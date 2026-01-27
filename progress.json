@@ -283,5 +283,14 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769490711.49961,
+    "completed_at": 1769490713.362452,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
   }
 ]
